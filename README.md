@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harsh2662004@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **We use tabs over spaces**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
