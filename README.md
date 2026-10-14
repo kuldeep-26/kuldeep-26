@@ -1,158 +1,140 @@
-# Hi 👋, I'm Harsh Singh
-
-<h3 align="center">Python Backend Developer | Django | FastAPI | Generative AI</h3>
+<h1 align="center">Hi 👋, I'm Harsh Singh</h1>
+<h3 align="center">Backend & AI/ML Engineer | Python • FastAPI • Flask • Generative AI</h3>
 
 <p align="center">
-  Building practical web applications, scalable backend systems, and AI-powered solutions.
+  Building backend systems and AI-powered applications that solve real-world problems.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamharsh26&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm working on **backend development and full-stack web applications**.
-- 🌱 I'm learning **Django REST Framework, FastAPI, REST APIs, and Generative AI**.
-- 🤖 Interested in **Retrieval-Augmented Generation (RAG), LangChain, and AI integration**.
-- 🛠️ Experienced in building projects using **Python, Django, HTML, CSS, and SQL databases**.
-- 🚀 I enjoy turning ideas into functional, user-friendly applications.
-- 📫 Reach me at **[harsh2662004@gmail.com](mailto:harsh2662004@gmail.com)**.
+- 🎓 B.Tech in Computer Science (Artificial Intelligence), **Poornima Institute of Engineering & Technology**
+- 📈 Graduated with a **CGPA of 8.9/10.0** *(2022–2026, as listed on my resume)*
+- 💼 Former **SQL Intern at Celebal Technologies** and **Data Science Intern at Upflairs**
+- 🐍 Focused on backend development with **Python, FastAPI, Flask, SQL, and REST APIs**
+- 🤖 Interested in **Machine Learning, Computer Vision, Generative AI, and Retrieval-Augmented Generation (RAG)**
+- 🧠 Exploring ways to build reliable, useful AI applications by combining models, APIs, and data
+- 📫 Email: [iamharsh026@gmail.com](mailto:iamharsh026@gmail.com)
 
 ---
 
-## 🌐 Connect With Me
+## 🧰 Tech Stack
 
-<p align="left">
-  <a href="https://linkedin.com/in/iamharsh26" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/kuldeep_.26" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:harsh2662004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,sql" alt="Python, Java, C++, SQL" />
 </p>
 
----
-
-## 💻 Languages and Tools
-
-### Programming Languages
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  </a>
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" alt="FastAPI, Flask, Node.js, Express" />
 </p>
 
-### Backend Development
-
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
-  </a>
-  <a href="https://www.django-rest-framework.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" alt="Django REST Framework" width="45" height="45"/>
-  </a>
+### AI / Machine Learning & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="TensorFlow and Scikit-learn" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Generative%20AI-RAG-6E56CF?style=for-the-badge" alt="Generative AI and RAG" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
 </p>
 
 ### Databases
-
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" width="45" height="45"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 </p>
 
-### AI, Machine Learning and Data Analysis
-
-<p align="left">
-  <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://python.langchain.com/img/brand/wordmark.png" alt="LangChain" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" height="45"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
-  </a>
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,pycharm" alt="Git, GitHub, Postman, VS Code, PyCharm" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
 </p>
 
-### Developer Tools
+---
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+## 💼 Experience
+
+### SQL Intern — Celebal Technologies Pvt. Ltd.
+*Jaipur · June 2025 – August 2025*
+
+- Designed and optimized SQL queries for backend operations and data reporting.
+- Worked with relational datasets using **MySQL and SQL Server**, with attention to data integrity across schemas.
+- Collaborated on ETL pipeline improvements and automated routine reporting workflows.
+
+### Data Science Intern — Upflairs Pvt. Ltd.
+*Jaipur · July 2024 – August 2024*
+
+- Built and evaluated classification and regression models using **Scikit-learn and Pandas**.
+- Performed data preprocessing, exploratory data analysis (EDA), and feature engineering.
+- Created visualizations and dashboards with **Matplotlib and Seaborn** to communicate findings.
+
+---
+
+## 🚀 Featured Projects
+
+### 🎵 Moody Player
+**Node.js · Express.js · MongoDB · Bootstrap · Face Detection**
+
+- Integrated real-time face detection to classify facial expressions into mood categories.
+- Built dynamic playlist generation based on detected mood, with a manual override.
+- Developed a responsive interface connected to REST APIs for music playback.
+
+🔗 **[Add project repository link](https://github.com/YOUR_GITHUB_USERNAME)**
+
+### 🩺 MediScan AI
+**Python · TensorFlow · CNN · Scikit-learn · Grad-CAM**
+
+- Developed a binary CNN classifier for chest X-ray abnormality detection using medical imaging data.
+- Integrated **Grad-CAM** heatmaps to help interpret model predictions.
+- Applied image preprocessing and data augmentation to improve model generalization.
+
+🔗 **[Add project repository link](https://github.com/YOUR_GITHUB_USERNAME)**
+
+### 🌱 Crop Prediction & Recommendation System
+**Python · Flask · Scikit-learn · Pandas · NumPy**
+
+- Built a multi-class ML model to recommend crops using soil and environmental parameters.
+- Deployed the model in an interactive Flask web application.
+- Used cross-validation, hyperparameter tuning, and feature selection to improve model performance.
+
+🔗 **[Add project repository link](https://github.com/YOUR_GITHUB_USERNAME)**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/iamharsh26" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="45" height="45"/>
+  <a href="mailto:iamharsh026@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-- ☕ **Brew & Bite — Restaurant Website**  
-  A Django-based restaurant website featuring menu pages, customer reviews, contact information, and user authentication.
-
-- ⚡ **FastAPI Learning Projects**  
-  Exploring API development, request handling, routing, and backend application design with FastAPI.
-
-- 🤖 **Generative AI and RAG Applications**  
-  Exploring LangChain, document retrieval, embeddings, vector databases, and LLM integration.
-
-> Replace or expand these project descriptions with links to your actual GitHub repositories as each project becomes ready to showcase.
-
----
-
-## 📊 GitHub Statistics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamharsh26&show_icons=true&theme=tokyonight&hide_border=true" alt="Harsh's GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamharsh26&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamharsh26&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
----
-
-<p align="center">
-  <b>💡 Learn continuously. Build consistently. Improve every day.</b>
+  <i>Keep learning, keep building, and turn ideas into useful solutions. 🚀</i>
 </p>
