@@ -109,7 +109,7 @@
 - Worked on responsive layouts, reusable templates, static assets, and frontend styling.
 - Deployed the project on **Render** using Gunicorn, WhiteNoise, environment-based configuration, and production security settings.
 
-🔗 [Add Brew & Bite repository link](https://github.com/kuldeep-26)
+🔗 [Repository link](https://github.com/kuldeep-26/Restuarant-django)
 
 ### 🩺 MediScan AI — Chest X-ray Analysis
 **Python · TensorFlow · CNN · Scikit-learn · Grad-CAM · Matplotlib**
@@ -118,16 +118,7 @@
 - Integrated **Grad-CAM** heatmaps to make model predictions more interpretable.
 - Applied image preprocessing and data augmentation to improve generalization on imbalanced data.
 
-🔗 [Add MediScan AI repository link](https://github.com/kuldeep-26)
-
-### 🌱 Crop Prediction & Recommendation System
-**Python · Flask · Scikit-learn · Pandas · NumPy · Seaborn**
-
-- Built a multi-class machine learning model to recommend crops using soil composition and environmental parameters.
-- Deployed the model through an interactive Flask web application.
-- Used cross-validation, hyperparameter tuning, and feature selection to improve model performance.
-
-🔗 [Add Crop Prediction repository link](https://github.com/kuldeep-26)
+🔗 [Repository link](https://github.com/kuldeep-26/Pneumonia-Detector)
 
 ### 🎵 Moody Player — Mood-Based Music Player
 **Node.js · Express.js · MongoDB · Bootstrap · Face Detection**
@@ -136,7 +127,16 @@
 - Implemented dynamic playlist generation based on detected mood, with a manual override.
 - Built a responsive UI connected to REST API-driven music playback.
 
-🔗 [Add Moody Player repository link](https://github.com/kuldeep-26)
+🔗 [Repository link](https://github.com/kuldeep-26/Moody-Player)
+
+### 🌱 Crop Prediction & Recommendation System
+**Python · Flask · Scikit-learn · Pandas · NumPy · Seaborn**
+
+- Built a multi-class machine learning model to recommend crops using soil composition and environmental parameters.
+- Deployed the model through an interactive Flask web application.
+- Used cross-validation, hyperparameter tuning, and feature selection to improve model performance.
+
+🔗 [Repository link](https://github.com/kuldeep-26/Crop_Prediction)
 
 ### 🤖 Generative AI & RAG Learning
 **Python · LangChain · Embeddings · Vector Stores · LLM APIs**
